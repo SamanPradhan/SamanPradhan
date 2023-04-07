@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **pradhansaman@gmail.com**
 
+- 📜 Check out my <a href="https://drive.google.com/file/d/1lubZiPX_Q1skORjKuNyY-rLHMvR68uAa/view?usp=sharing"> resume</a> here
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samanpradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samanpradhan" height="30" width="40" /></a>
