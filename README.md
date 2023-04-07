@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **MERN, SQL, system design**
 
-- 👨‍💻 Checkout my portfolio at [SamanPradhan.github.io](SamanPradhan.github.io)
-
+- 👨‍💻 Checkout my portfolio at <a href="https://samanpradhan.github.io/"> **SamanPradhan.github.io**
+</a>
 - 💬 Ask me about **NodeJS, ExpressJS, MongoDB,**
 
 - 📫 How to reach me **pradhansaman@gmail.com**
