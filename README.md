@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanpradhan" alt="samanpradhan" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, system design**
+- 🌱 I’m currently learning **MERN, SQL, system design**
 
-- 👨‍💻 All of my projects are available at [SamanPradhan2017@gmail.com](SamanPradhan2017@gmail.com)
+- 👨‍💻 Checkout my portfolio at [SamanPradhan.github.io](SamanPradhan.github.io)
 
 - 💬 Ask me about **NodeJS, ExpressJS, MongoDB,**
 
