@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN, SQL, system design**
 
-- 👨‍💻 Checkout my portfolio at <a href="SamanPradhan.github.io"> **SamanPradhan.github.io**</a>
+- 👨‍💻 Checkout my portfolio at <a href="https://SamanPradhan.github.io/" rel="nofollow">here</a>
 
 - 💬 Ask me about **NodeJS, ExpressJS, MongoDB,**
 
