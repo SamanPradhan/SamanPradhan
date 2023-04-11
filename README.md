@@ -1,19 +1,19 @@
 <!-- <div style="disply:flex;flex-direction:column;justify-content:center"> -->
 <div align="center" dir="auto">
 <h1 align="center">Hi 👋, I'm Saman Ranjan Pradhan</h1>
-<h3 align="center">A curious Node Backend Developer with ample skills in frontend development as well as designing.</h3>
+<h3 align="center">A curious Node Backend Developer with ample skills in frontend Web Development and Web Designing.</h3>
 
 <!-- <p> <img src="https://komarev.com/ghpvc/?username=samanpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="samanpradhan" /> </p> -->
 
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanpradhan" alt="samanpradhan" /></a> </p>
 
- 🌱 I’m currently learning **MERN, SQL, system design**
+ 🌱 I’m currently learning **MERN stack, SQL, system design**
 
  👨‍💻 Checkout my portfolio at <a href="https://SamanPradhan.github.io/" rel="nofollow">here</a>
 
- 💬 Ask me about **NodeJS, ExpressJS, MongoDB,**
+ 💬 Ask me about **NodeJS, ExpressJS, MongoDB and all Front-End development**
 
- 📫 How to reach me **pradhansaman@gmail.com**
+ 📫 Reach out to me at **pradhansaman@gmail.com**
 
  📜 Check out my <a href="https://drive.google.com/file/d/1lubZiPX_Q1skORjKuNyY-rLHMvR68uAa/view?usp=sharing"> resume</a> here
 
