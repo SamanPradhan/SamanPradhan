@@ -16,6 +16,12 @@
  📫 Reach out to me at **pradhansaman@gmail.com**
 
  📜 Check out my <a href="https://drive.google.com/file/d/1lubZiPX_Q1skORjKuNyY-rLHMvR68uAa/view?usp=sharing"> resume</a> here
+ 
+ 😂 Here is a random joke that'll make you laugh!
+ 
+ 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- <h3>Connect with me:</h3> -->
 <p >
