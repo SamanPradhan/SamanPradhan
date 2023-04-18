@@ -27,10 +27,10 @@
 
 <!-- <p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samanpradhan&show_icons=true&locale=en&layout=compact" alt="samanpradhan" /></p> -->
 <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamanPradhan&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10" alt="samanpradhan" /></p>
-<p style="text-align:center">&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=samanpradhan&show_icons=true&locale=en" alt="samanpradhan" /></p>
-
+<!-- <p style="text-align:center">&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=samanpradhan&show_icons=true&locale=en" alt="samanpradhan" /></p> -->
+<p style="text-align:center">&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=SamanPradhan&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanpradhan&" alt="samanpradhan" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanpradhan&" alt="samanpradhan" /></p>
-
   
   </div>
 
