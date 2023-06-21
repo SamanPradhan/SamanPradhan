@@ -1,4 +1,4 @@
-<!-- <div style="disply:flex;flex-direction:column;justify-content:center"> -->
+
 <div align="center" dir="auto">
 <h1 align="center">Hi 👋, I'm Saman Ranjan Pradhan</h1>
 <h3 align="center">A curious Node Backend Developer with ample skills in frontend Web Development and Web Designing.</h3>
