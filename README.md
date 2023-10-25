@@ -1,16 +1,16 @@
-<!-- <div style="disply:flex;flex-direction:column;justify-content:center"> -->
+<!-- <div style="display:flex;flex-direction:column;justify-content:center"> -->
 <div align="center" dir="auto">
 <h1 align="center">Hi 👋, I'm Saman Ranjan Pradhan</h1>
-<h3 align="center">A curious Node Backend Developer with ample skills in frontend Web Development and Web Designing.</h3>
+<h3 align="center">A Full Stack Developer with ample skills in Web Development Web Designing.</h3>
 
 
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanpradhan" alt="samanpradhan" /></a> </p>
 
- 🌱 I’m currently learning **MERN stack, SQL, system design**
+ 🌱 I’m currently learning **MERN stack, SQL, and system design**
 
  👨‍💻 Checkout my portfolio at <a href="https://SamanPradhan.github.io/" rel="nofollow">here</a>
 
- 💬 Ask me about **NodeJS, ExpressJS, MongoDB and all Front-End development**
+ 💬 Ask me about **NodeJS, ExpressJS, MongoDB, and all Front-End development**
 
  📫 Reach out to me at **pradhansaman@gmail.com**
 
