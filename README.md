@@ -1,7 +1,7 @@
 <!-- <div style="display:flex;flex-direction:column;justify-content:center"> -->
 <div align="center" dir="auto">
 <h1 align="center">Hi 👋, I'm Saman Ranjan Pradhan</h1>
-<h3 align="center">A Full Stack Developer with ample skills in Web Development Web Designing.</h3>
+<h3 align="center">A Full Stack Developer with skilled in Web Development and Web Designing.</h3>
 
 
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanpradhan" alt="samanpradhan" /></a> </p>
