@@ -12,7 +12,7 @@
 
  💬 Ask me about **NodeJS, ExpressJS, MongoDB, and all Front-End development**
 
- 📫 Reach out to me at **pradhansaman@gmail.com**
+ 📫 Reach out to me at **pradhansaman2017@gmail.com**
 
  📜 Check out my <a href="https://drive.google.com/file/d/103-t08c6mtQZmO8fdLoJ9qTVBMUw3Sg0/view?usp=sharing"> resume</a> here
  
