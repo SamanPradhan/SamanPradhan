@@ -14,7 +14,7 @@
 
  📫 Reach out to me at **pradhansaman2017@gmail.com**
 
- 📜 Check out my <a href="[https://drive.google.com/file/d/1bNjXsMmjRZGntWQhE61OZ0rcq2_R4eKc/view?usp=sharing]"> resume</a> here
+ 📜 Check out my <a href="https://drive.google.com/file/d/1bNjXsMmjRZGntWQhE61OZ0rcq2_R4eKc/view?usp=sharing"> resume</a> here
  
  😂 Here is a random joke that'll make you laugh!
  
